@@ -1,0 +1,6 @@
+git commit
+git commit --list
+git init
+git statuts
+git add
+
