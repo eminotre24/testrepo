@@ -3,4 +3,4 @@ git commit --list
 git init
 git statuts
 git add
-
+git remote add <filename> <URL>
