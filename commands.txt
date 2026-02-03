@@ -3,4 +3,6 @@ git commit --list
 git init
 git statuts
 git add
-git remote add <filename> <URL>
+git remote add <filename> <URL>  # Add URL from GitHub (Generated)
+
+git push --set-upstream <reponame?> <branch?>
